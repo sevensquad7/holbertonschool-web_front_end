@@ -376,11 +376,6 @@ ul.row {
     list-style: none;
 }
 
-.row::after {
-    display: table;
-    clear: both;
-}
-
 [class*='col-'] {
     padding: 0.5rem;
 }
