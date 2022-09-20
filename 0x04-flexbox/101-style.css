@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1 {
+    width: 6rem;
+    height: 4rem;
+    font-size: 2rem;
+    background-color: #1fcd6c;
+    color: white;
+    margin-top: 3.5rem;
+}
+
+.box2 {
+    width: 9rem;
+    height: 6rem;
+    font-size: 3rem;
+    background-color: #2d98de;
+    color: white;
+    margin-top: 2rem;
+}
+
+.box3 {
+    width: 14rem;
+    height: 9rem;
+    font-size: 5rem;
+    background-color: #344a61;
+    color: white;
+}
+
+.box4 {
+    width: 9rem;
+    height: 6rem;
+    font-size: 3rem;
+    background-color: #9d55b9;
+    color: white;
+    margin-top: 2rem;
+}
+
+.box5 {
+    width: 6rem;
+    height: 4rem;
+    font-size: 2rem;
+    background-color: #ea7d04;
+    color: white;
+    margin-top: 3.5rem;
+}
